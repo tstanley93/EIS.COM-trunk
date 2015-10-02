@@ -1,0 +1,4 @@
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\bin\AMCS.COM.dll
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\bin\AMCS.COM.pdb
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\obj\Release\AMCS.COM.dll
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\obj\Release\AMCS.COM.pdb

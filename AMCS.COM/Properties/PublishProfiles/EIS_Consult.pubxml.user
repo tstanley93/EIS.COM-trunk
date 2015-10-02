@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Release</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile>2012-09-06T18:00:00.6240937-07:00</TimeStampOfAssociatedLegacyPublishXmlFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/Exchange_Config.aspx">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="Admin/Existing_Outlook_Setup.aspx">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="Admin/newuser.aspx">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="Admin/New_Outlook_Setup.aspx">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="Admin/tools.aspx">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="Admin/Web.config">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="AMCSCA_CERT_FILE.zip">
+      <publishTime>09/06/2012 17:51:50</publishTime>
+    </File>
+    <File Include="bin/AMCS.COM.dll">
+      <publishTime>12/19/2012 08:14:23</publishTime>
+    </File>
+    <File Include="bin/AMCS.COM.pdb">
+      <publishTime>09/06/2012 17:53:10</publishTime>
+    </File>
+    <File Include="Change_Exchange_Config.aspx">
+      <publishTime>09/06/2012 17:59:50</publishTime>
+    </File>
+    <File Include="contact_info.aspx">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>09/06/2012 17:51:49</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>09/06/2012 17:51:50</publishTime>
+    </File>
+    <File Include="Downloads.aspx">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/01_18.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/01_21.gif">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/AMCS_Logo1.png">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/AMCS_Logo2.png">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/AMCS_navigate.png">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/AMCS_Navigation_1.gif">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/AMCS_Navigation_2.gif">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/annother_heading.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image01.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image02.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image03.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image04.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image05.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image06.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image07.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image08.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image09.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/Change_Outlook/image10.PNG">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/eis_favicon.ico">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/eis_logo_1-3.jpg">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/eis_logo_1-5.jpg">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="images/eis_logo_1-6.jpg">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/eis_logo_1-7.jpg">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/eis_logo_1-9.jpg">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/biggrin.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/blink.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/cool.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/dry.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/huh.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/laugh.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/mad.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/mellow.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/ohmy.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/rolleyes.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/sad.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/smile.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/tongue.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/unsure.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Emoticons/wink.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Firefox/ff-01.PNG">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Firefox/ff-02.PNG">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Firefox/ff-03.PNG">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Firefox/ff-04.PNG">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/Firefox/ff-05.PNG">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/FirefoxLogo-main_Full.jpg">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/footer_1.gif">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/footer_2.gif">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/footer_back.gif">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/google-chrome-logo-1000.jpg">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/green_button_v1.jpg">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/heading_text.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/internet-explorer-9.jpg">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/logotip.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/menu_back.gif">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/navigate.gif">
+      <publishTime>09/06/2012 17:51:54</publishTime>
+    </File>
+    <File Include="images/Opera/op-01.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Opera/op-02.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Opera/op-03.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Opera/op-04.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Opera/op-05.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Opera/op-06.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Opera_512x512.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/Outlook_First/01.PNG">
+      <publishTime>09/06/2012 17:51:54</publishTime>
+    </File>
+    <File Include="images/Outlook_First/02.PNG">
+      <publishTime>09/06/2012 17:51:54</publishTime>
+    </File>
+    <File Include="images/Outlook_First/03.PNG">
+      <publishTime>09/06/2012 17:51:54</publishTime>
+    </File>
+    <File Include="images/Outlook_First/04.PNG">
+      <publishTime>09/06/2012 17:51:54</publishTime>
+    </File>
+    <File Include="images/Outlook_First/05.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/06.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/07.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/08.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/09.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/10.PNG">
+      <publishTime>12/11/2012 11:43:22</publishTime>
+    </File>
+    <File Include="images/Outlook_First/11.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/12.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/13.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/14.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/15.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/account_notsetup_error.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/browse_tosave.PNG">
+      <publishTime>09/06/2012 17:51:54</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_error.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_file_warning.PNG">
+      <publishTime>09/06/2012 17:51:54</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_import_01.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_import_02.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_import_03.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_import_04.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_import_05.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_import_06.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/cert_import_07.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/change_filename_01.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/checkname_dialog.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/checkname_error.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/confirm_rename.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/eisweb_cert_error.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/folder_options.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/full_file_name.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/isa_login.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/open_folder.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/renamed_now.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/rename_cer.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/right_click_install_cert.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/right_click_rename.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/save_target.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/Outlook_First/view_tab.PNG">
+      <publishTime>09/06/2012 17:51:55</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img01.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img02.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img03.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img04.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img05.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img06.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img07.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img08.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/RemoveCert/img09.png">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="images/small_4.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/spacer.gif">
+      <publishTime>09/06/2012 17:51:53</publishTime>
+    </File>
+    <File Include="images/up-arrow.jpg">
+      <publishTime>09/06/2012 17:51:56</publishTime>
+    </File>
+    <File Include="Install_Cert.aspx">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="login.aspx">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="Main.Master">
+      <publishTime>12/19/2012 08:11:30</publishTime>
+    </File>
+    <File Include="New_Outlook_Setup.aspx">
+      <publishTime>12/11/2012 11:43:22</publishTime>
+    </File>
+    <File Include="nonprofit.aspx">
+      <publishTime>09/06/2012 17:51:50</publishTime>
+    </File>
+    <File Include="Scripts/EIS_jquery.js">
+      <publishTime>09/06/2012 17:51:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1-vsdoc.js">
+      <publishTime>09/06/2012 17:51:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.js">
+      <publishTime>09/06/2012 17:51:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.4.1.min.js">
+      <publishTime>09/06/2012 17:51:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery.autoresize.js">
+      <publishTime>09/06/2012 17:51:49</publishTime>
+    </File>
+    <File Include="Scripts/jquery.textareaexpander.js">
+      <publishTime>09/06/2012 17:51:49</publishTime>
+    </File>
+    <File Include="services.aspx">
+      <publishTime>09/06/2012 17:51:52</publishTime>
+    </File>
+    <File Include="SilverLight/Silverlight_Test_1.dll">
+      <publishTime>09/06/2012 17:51:50</publishTime>
+    </File>
+    <File Include="SilverLight/Silverlight_Test_1.xap">
+      <publishTime>09/06/2012 17:51:50</publishTime>
+    </File>
+    <File Include="TestPage.aspx">
+      <publishTime>09/06/2012 17:51:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/06/2012 17:51:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

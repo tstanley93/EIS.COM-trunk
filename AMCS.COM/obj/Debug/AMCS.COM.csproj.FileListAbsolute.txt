@@ -1,0 +1,15 @@
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\AMCS.COM-trunk\AMCS.COM\bin\AMCS.COM.dll
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\AMCS.COM-trunk\AMCS.COM\bin\AMCS.COM.pdb
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\AMCS.COM-trunk\AMCS.COM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\AMCS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.dll
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\AMCS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.pdb
+C:\Users\stanley\Documents\Projects\AMCS.COM-trunk\AMCS.COM\bin\AMCS.COM.dll
+C:\Users\stanley\Documents\Projects\AMCS.COM-trunk\AMCS.COM\bin\AMCS.COM.pdb
+C:\Users\stanley\Documents\Projects\AMCS.COM-trunk\AMCS.COM\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\stanley\Documents\Projects\AMCS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.dll
+C:\Users\stanley\Documents\Projects\AMCS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.pdb
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\bin\AMCS.COM.dll
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\bin\AMCS.COM.pdb
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.dll
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.pdb
+C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.csprojResolveAssemblyReference.cache
