@@ -13,3 +13,9 @@ C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\b
 C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.dll
 C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.pdb
 C:\Users\tstanley\Documents\Visual Studio 2010\Projects\EIS.COM-trunk\AMCS.COM\obj\Debug\AMCS.COM.csprojResolveAssemblyReference.cache
+C:\Users\stanley\Documents\GitHub\EIS.COM\AMCS.COM\bin\AMCS.COM.dll.config
+C:\Users\stanley\Documents\GitHub\EIS.COM\AMCS.COM\bin\AMCS.COM.dll
+C:\Users\stanley\Documents\GitHub\EIS.COM\AMCS.COM\bin\AMCS.COM.pdb
+C:\Users\stanley\Documents\GitHub\EIS.COM\AMCS.COM\obj\Debug\AMCS.COM.csprojResolveAssemblyReference.cache
+C:\Users\stanley\Documents\GitHub\EIS.COM\AMCS.COM\obj\Debug\AMCS.COM.dll
+C:\Users\stanley\Documents\GitHub\EIS.COM\AMCS.COM\obj\Debug\AMCS.COM.pdb
